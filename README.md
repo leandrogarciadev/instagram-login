@@ -1,6 +1,6 @@
 # Oi, tudo bem!
 
-Neste repositório utilizarei Flexbox, criarei a interface de login do Instagram! 
+Neste exercício utilizei Flexbox e conheci um pouco de responsividade, criei a interface de login do Instagram! 
 
 ### Requisitos utilizados:
 
